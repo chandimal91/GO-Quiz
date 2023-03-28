@@ -1,0 +1,14 @@
+3 6 7
+a
+aloha
+app
+az
+paiza
+warp
+app
+paiza
+a
+aloha
+az
+warp
+paiza
